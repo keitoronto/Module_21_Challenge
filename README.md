@@ -11,7 +11,6 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 In the `README.md` file of your GitHub repository for this homework assignment, you’ll create a section named Evaluation Evidence. In this section, you’ll share screenshots of your work from each subsection of the assignment.
 
-
 ## Evaluation Evidence:
 
 1. Take a screenshot of the successful compilation of the contract:'KaseiCoin', and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
@@ -26,7 +25,13 @@ In the `README.md` file of your GitHub repository for this homework assignment, 
 
    ![An image shows a wallet with bitcoin.](Images/KaseiCoinCrowdsale_Contract_Deployer_Compler_Result.png)
 
-8. Create a GitHub repository and a `README.md` file that explains the process for buying KaseiCoin.
+3. Create a GitHub repository and a `README.md` file that explains the process for buying KaseiCoin.
+
+1. Send Ether to the KaseiCoinCrowdsale smart contract address.
+
+2. The smart contract will automatically calculate the number of KaseiCoin tokens that you will receive based on the current exchange rate
+
+3. The KaseiCoin tokens will then be sent to the Ethereum wallet address from which you sent the Ether.
 
 Make sure that your `README.md` file includes screenshots that illustrate the functionality of your contracts as the earlier instructions detailed.
 
